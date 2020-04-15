@@ -196,4 +196,4 @@ ggplot(averages, aes(interval, steps)) + geom_line() + facet_grid(day ~ .) +
     xlab("5-minute interval") + ylab("Number of steps")
 ```
 
-![leo4](4.png) 
+![leo4](https://github.com/leonardogomezca78/Reproducible-Research_Project-1/blob/master/4.TotalStepsImputedHistogram.png) 
