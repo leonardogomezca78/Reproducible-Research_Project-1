@@ -37,7 +37,7 @@ qplot(total.steps, binwidth = 1000, xlab = "total number of steps taken each day
 
 ```
 
-![leo1](1.png) 
+![leo](https://github.com/leonardogomezca78/Reproducible-Research_Project-1/blob/master/1.Total_steps_per%20day.png) 
 
 ```r
 mean(total.steps, na.rm = TRUE)
