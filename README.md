@@ -140,7 +140,7 @@ qplot(total.steps, binwidth = 1000, xlab = "total number of steps taken each day
 
 ```
 
-![leo4](2.png) 
+![leo4](https://github.com/leonardogomezca78/Reproducible-Research_Project-1/blob/master/2.5%20minutes%20Interval.png) 
 
 ```r
 
