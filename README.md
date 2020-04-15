@@ -70,7 +70,7 @@ ggplot(data = averages, aes(x = interval, y = steps)) + geom_line() + xlab("5-mi
 ```
 
 
-![leo2](3.png) 
+![leo2](https://github.com/leonardogomezca78/Reproducible-Research_Project-1/blob/master/3.Average%20number%20Steps.png) 
 
 
 On average across all the days in the dataset, the 5-minute interval contains
